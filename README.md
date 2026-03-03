@@ -1,7 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ErikVargas654&show_icons=true&count_private=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikVargas654&show_icons=true&count_private=true&theme=radical&layout=compact" >
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
